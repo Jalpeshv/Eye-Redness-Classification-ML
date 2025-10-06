@@ -1,2 +1,2 @@
-# Eye-Redness
+# Eye-Redness-Classification-through-ML
 Eye Redness Project
